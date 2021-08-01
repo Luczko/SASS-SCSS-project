@@ -6,6 +6,10 @@
 @import "contact";
 @import "responsive";
 
+html {
+  font-size: 12px;
+}
+
 body {
   background: $primary-color;
   color: set-text-color($primary-color);
